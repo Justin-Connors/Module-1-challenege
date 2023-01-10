@@ -1,2 +1,2 @@
 # Module-1-challenege
-the Module 1 Challenege for UNB Code Bootcamp
+the Module 1 Challenge for UNB Code Bootcamp
